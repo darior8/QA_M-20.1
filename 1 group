@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+  Hello world!!!
+<br><br>
+  Hello world!!!
+
+<p>Lorem, <em>ipsum</em> dolor <b>sit</b> amet <strong>consectetur</strong> adipisicing elit. Amet possimus eaque quaerat.</p>
+
+<a href="http://google.com.ua/" target="_blank">Перехід на Гугл</a>
+
+</body>
+</html>
